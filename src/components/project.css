@@ -1,0 +1,52 @@
+.experience {
+  background-color: var(--mono-background-color);
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  padding: 50px 20px;
+}
+
+.project {
+  background: linear-gradient(
+    180deg,
+    rgba(184, 58, 138, 0.642464) 0%,
+    rgba(78, 18, 211, 0.475424) 100%
+  );
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  width: 270px;
+  border-radius: 31px;
+  padding-bottom: 50px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 40px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.project_part {
+  flex: 1;
+}
+
+.project_paragraph {
+  margin-bottom: 15px;
+}
+
+.project_buttons {
+  margin-top: 30px;
+}
+
+.project_link {
+  background: rgba(13, 211, 206, 0.5);
+  border-radius: 15px;
+  color: var(--main-light-font);
+  list-style: none;
+  text-decoration: none;
+  padding: 5px 20px;
+  text-transform: uppercase;
+  margin-right: 15px;
+}

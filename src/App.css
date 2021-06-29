@@ -1,38 +1,62 @@
-.App {
-  text-align: center;
+html {
+  height: 100%;
+  --main-background-color: #3d13b5;
+  --mono-background-color: #4d22c7;
+  --main-light-font: white;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+p,
+h2,
+h1,
+li,
+ul {
+  margin: 0;
+  padding: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+ul {
+  list-style: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+body {
+  background-color: var(--main-background-color);
+  color: var(--main-light-font);
+  font-family: "Open Sans";
+  /* 
+  межстрочный интервал
+  расстрояние после заголовка
+  межбуквенный интервал
+  */
 }
 
-.App-link {
-  color: #61dafb;
+.heading_1 {
+  font-size: 62px;
+  margin-bottom: 40px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.paragraph_1 {
+  font-size: 32px;
+}
+
+.heading_2 {
+  font-size: 36px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.paragraph_2 {
+  font-size: 24px;
+}
+
+.heading_3 {
+  font-size: 32px;
+}
+
+.paragraph_3 {
+  font-size: 16px;
+}
+
+.btn-text {
+  font-size: 16px;
+  text-transform: uppercase;
 }

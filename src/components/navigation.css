@@ -1,0 +1,14 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(0, 0, 0, 0.46);
+  padding: 20px;
+}
+
+.navigation__nav-bar {
+  display: flex;
+}
+
+.navigation__nav-bar li {
+  margin-left: 40px;
+}

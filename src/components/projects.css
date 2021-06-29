@@ -1,0 +1,39 @@
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.experience_skills {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  width: 935px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.experience_skills div {
+  margin-bottom: 10px;
+  /* margin-left: 10px;
+  margin-right: 10px; */
+  padding-left: 25px;
+  font-size: 22px;
+  position: relative;
+  width: 160px;
+}
+
+.experience_skills__block div {
+  position: relative;
+}
+
+.experience_skills__block div::before {
+  content: "";
+  border-radius: 100%;
+  width: 15px;
+  height: 15px;
+  background-color: pink;
+  position: absolute;
+  top: calc(50% - 5px);
+  left: 0;
+}
