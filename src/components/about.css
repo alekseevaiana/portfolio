@@ -1,13 +1,33 @@
 .about {
   display: flex;
-  width: 90vw;
   height: 90vh;
+  max-width: 1030px;
+  margin-right: auto;
+  margin-left: auto;
   padding-top: 150px;
-  padding-left: 50px;
+}
+
+.about_wrapper {
   background-image: url(../img/nature_bcr.png);
   background-size: cover;
+  overflow: hidden;
 }
 
 .about_left {
-  margin-right: 65px;
+  margin-right: 50px;
+}
+
+@media only screen and (max-width: 1080px) {
+  .about {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+  }
+
+  .about_left {
+    text-align: center;
+    margin-right: 0;
+  }
 }
