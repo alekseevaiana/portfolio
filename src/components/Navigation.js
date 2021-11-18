@@ -1,15 +1,20 @@
 import "./navigation.css";
+import { HashLink as Link } from "react-router-hash-link";
 
 export default function Navigation() {
   return (
     <div className="navigation">
       <div className="logo">iana alekseeva.</div>
       <ul className="navigation__nav-bar">
-        <li>About</li>
-        <li>Projects</li>
-        <li>Background</li>
-        <li>Education</li>
-        <li>Contacts</li>
+        <li>
+          <Link to="#about">About</Link>
+        </li>
+        <li>
+          <Link to="#projects">Projects</Link>
+        </li>
+        <li>
+          <Link to="#contacts">Contacts</Link>
+        </li>
       </ul>
     </div>
   );

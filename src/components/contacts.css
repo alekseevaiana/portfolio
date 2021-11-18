@@ -1,0 +1,20 @@
+.contacts {
+  margin-top: 100px;
+  text-align: center;
+  height: 40vh;
+  padding-bottom: 100px;
+}
+
+.contacts .heading_2 {
+  margin-top: 50px;
+}
+
+.contacts_sosial-icons {
+  width: 180px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}

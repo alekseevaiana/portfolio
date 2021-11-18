@@ -5,12 +5,13 @@ import "./projects.css";
 
 export default function Projects() {
   return (
-    <div className="experience">
+    <div className="experience" id="projects">
       <h2 className="heading_2">Experience</h2>
       <p className="paragraph_2">
-        I have been coding for about 3 years, doing projects with different
+        I have been coding for about three years, doing projects with different
         technologies, and building strong technical skills in data structures
-        and algorithms. This is a list of main tools I’ve worked with:
+        and algorithms. This is a list of the main tools I’ve worked with and
+        the projects that I made:
       </p>
       <div className="experience_skills">
         <div className="experience_skills__block">
