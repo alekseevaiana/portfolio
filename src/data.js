@@ -24,7 +24,7 @@ const projectData = [
     image: "./img/vinishko.png",
     link: "https://alekseevaiana.github.io/vinishko/",
     github_link: "https://github.com/alekseevaiana/vinishko",
-    description: "My first application builded using React Framework",
+    description: "My first application built using React Framework",
     teck: "React, JavaScript, CSS, HTML",
     teck_array: ["React", "JavaScript", "CSS", "HTML"],
   },

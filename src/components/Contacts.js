@@ -19,7 +19,7 @@ export default function Contacts() {
         <a target="_blank" href="https://github.com/alekseevaiana">
           <GithubIcon width="50" height="50" className="icon" />
         </a>
-        <a target="_blank" href="https://instagram.com/junior_way_sv?r=nametag">
+        <a target="_blank" href="https://www.instagram.com/junior_way_sv/">
           <InstagramIcon width="50" height="50" className="icon" />
         </a>
       </div>
