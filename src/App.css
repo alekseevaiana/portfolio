@@ -27,6 +27,9 @@ body {
   background-color: var(--main-background-color);
   color: var(--main-light-font);
   font-family: "Titillium Web", sans-serif;
+  background-image: url(./img/nature_bcr.png);
+  background-size: cover;
+  overflow: hidden;
   /* 
   межстрочный интервал
   расстрояние после заголовка
