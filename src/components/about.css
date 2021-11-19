@@ -6,11 +6,11 @@
   text-align: center;
 }
 
-.about_wrapper {
+/* .about_wrapper {
   background-image: url(../img/nature_bcr.png);
   background-size: cover;
   overflow: hidden;
-}
+} */
 
 .about_left {
   margin-right: 50px;

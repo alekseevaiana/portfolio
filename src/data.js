@@ -5,8 +5,8 @@ const projectData = [
     link: "pokemons-iana.herokuapp.com/",
     github_link: "https://github.com/alekseevaiana/pokemons",
     description: "React application with using external API.",
-    teck: "React, JavaScript, CSS, HTML",
-    teck_array: ["React", "JavaScript", "CSS", "HTML"],
+    teck: "Figma, React, JavaScript, CSS, HTML",
+    teck_array: ["Figma", "React", "JavaScript", "CSS", "HTML"],
   },
   {
     title: "My_Basecamp",

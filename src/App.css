@@ -27,8 +27,9 @@ body {
   background-color: var(--main-background-color);
   color: var(--main-light-font);
   font-family: "Titillium Web", sans-serif;
-  background-image: url(./img/nature_bcr.png);
-  background-size: cover;
+  background-image: url(./img/bkg_pic_mirrored.png);
+  background-size: 150%;
+  background-repeat: repeat;
   /* 
   межстрочный интервал
   расстрояние после заголовка
