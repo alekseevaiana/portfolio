@@ -2,7 +2,7 @@ const projectData = [
   {
     title: "Pokemons App",
     id: "7",
-    link: "pokemons-iana.herokuapp.com/",
+    link: "https://pokemons-iana.herokuapp.com/",
     github_link: "https://github.com/alekseevaiana/pokemons",
     description: "React application with using external API.",
     teck: "Figma, React, JavaScript, CSS, HTML",
