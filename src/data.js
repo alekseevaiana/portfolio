@@ -1,13 +1,13 @@
 const projectData = [
   {
-    title: "Meals Planner/Digital meals book",
+    title: "Meals Planner",
     id: "8",
-    link: "alekseevaiana.github.io/meals_planner/",
+    link: "https://alekseevaiana.github.io/meals_planner/",
     github_link: "https://github.com/alekseevaiana/meals_planner",
     description:
       "A React app that helps to plan your meals. This project allows me to solve my own problem. I thought it over from scratch: from defining the problem and drawing wireframes in Figma to implementing it with React. The project is in active development. I add features one by one, covering my code with unit tests.",
     teck: "Figma, React, JavaScript, CSS, HTML",
-    teck_array: ["Figma", "React", "JavaScript", "CSS", "HTML"],
+    teck_array: ["Figma", "React", "JavaScript", "MUI"],
   },
   {
     title: "Pokemons App",
@@ -36,7 +36,8 @@ const projectData = [
     image: "./img/vinishko.png",
     link: "https://alekseevaiana.github.io/vinishko/",
     github_link: "https://github.com/alekseevaiana/vinishko",
-    description: "My first application built using React Framework",
+    description:
+      "This is a simple checklist. You can create new list and check any day. This is my first application built using React Framework",
     teck: "React, JavaScript, CSS, HTML",
     teck_array: ["React", "JavaScript", "CSS", "HTML"],
   },
