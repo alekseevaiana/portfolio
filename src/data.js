@@ -4,7 +4,8 @@ const projectData = [
     id: "7",
     link: "https://alekseevaiana.github.io/pokemons",
     github_link: "https://github.com/alekseevaiana/pokemons",
-    description: "React application with using external API.",
+    description:
+      "A React app that fetches external API with Pokemons information. I draw the whole design on my own in Figma. I implemented Lazy Loading technique, used React Router to navigate between pages and for changing state I used React Hooks. ",
     teck: "Figma, React, JavaScript, CSS, HTML",
     teck_array: ["Figma", "React", "JavaScript", "CSS", "HTML"],
   },
@@ -14,7 +15,8 @@ const projectData = [
     image: "img/basecamp.png",
     link: "https://basecamp-17.herokuapp.com",
     github_link: "https://github.com/alekseevaiana/my_basecamp",
-    description: "This project is developing in Ruby on Rails.",
+    description:
+      "Ruby on Rails group project modeled after the popular Basecamp program. The project has a SQL database, a backend, and a frontend. My main contribution was implementing user authentication with the “Device” gem, attachments with AWS S3 service, discussions, comments, and user permissions.",
     teck: "Ruby, Ruby on Rails, SQL, SASS, CSS, HTML",
     teck_array: ["Ruby", "Ruby on Rails", "SQL", "CSS", "HTML"],
   },
@@ -34,7 +36,8 @@ const projectData = [
     image: "./img/pink.jpg",
     link: "https://alekseevaiana.github.io/pink/",
     github_link: "https://github.com/alekseevaiana/505469-pink",
-    description: "Project converted from PSD into a HTML-CSS layout.",
+    description:
+      "Project converted from PSD into a HTML-CSS layout and have responsive design.",
     teck: "CSS, HTML, SVG, LESS, GULP, Cross-Browser Compatibility, Responsive and Adaptive templates",
     teck_array: [
       "CSS",
@@ -63,7 +66,8 @@ const projectData = [
     image: "./img/interior-design-for-portfolio.jpg",
     link: "https://alekseevaiana.github.io/interior_design/",
     github_link: "https://github.com/alekseevaiana/interior_design",
-    description: "Project converted from PSD into a HTML-CSS layout.",
+    description:
+      "Project converted from PSD into a HTML-CSS layout with responsive design.",
     teck: "CSS, HTML, Cross-Browser Compatibility",
     teck_array: ["CSS", "HTML", "Cross-Browser Compatibility"],
   },
