@@ -1,5 +1,15 @@
 const projectData = [
   {
+    title: "Meals Planner/Digital meals book",
+    id: "8",
+    link: "alekseevaiana.github.io/meals_planner/",
+    github_link: "https://github.com/alekseevaiana/meals_planner",
+    description:
+      "A React app that helps to plan your meals. This project allows me to solve my own problem. I thought it over from scratch: from defining the problem and drawing wireframes in Figma to implementing it with React. The project is in active development. I add features one by one, covering my code with unit tests.",
+    teck: "Figma, React, JavaScript, CSS, HTML",
+    teck_array: ["Figma", "React", "JavaScript", "CSS", "HTML"],
+  },
+  {
     title: "Pokemons App",
     id: "7",
     link: "https://alekseevaiana.github.io/pokemons",
