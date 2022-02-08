@@ -71,17 +71,17 @@ const projectData = [
   //   teck: "CSS, HTML, Cross-Browser Compatibility",
   //   teck_array: ["CSS", "HTML", "Cross-Browser Compatibility"],
   // },
-  {
-    title: "Interior Design",
-    id: "6",
-    image: "./img/interior-design-for-portfolio.jpg",
-    link: "https://alekseevaiana.github.io/interior_design/",
-    github_link: "https://github.com/alekseevaiana/interior_design",
-    description:
-      "Project converted from PSD into a HTML-CSS layout with responsive design.",
-    teck: "CSS, HTML, Cross-Browser Compatibility",
-    teck_array: ["CSS", "HTML", "Cross-Browser Compatibility"],
-  },
+  // {
+  //   title: "Interior Design",
+  //   id: "6",
+  //   image: "./img/interior-design-for-portfolio.jpg",
+  //   link: "https://alekseevaiana.github.io/interior_design/",
+  //   github_link: "https://github.com/alekseevaiana/interior_design",
+  //   description:
+  //     "Project converted from PSD into a HTML-CSS layout with responsive design.",
+  //   teck: "CSS, HTML, Cross-Browser Compatibility",
+  //   teck_array: ["CSS", "HTML", "Cross-Browser Compatibility"],
+  // },
   {
     title: "My_tar",
     id: "4",
